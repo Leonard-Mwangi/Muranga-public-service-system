@@ -1,8 +1,8 @@
 # Murang'a County Public Service Portal (Prototype)
 
-A responsive mini eCitizen-style public service request prototype created as a learning/ICT internship project.
+A responsive mini eCitizen-style public service request prototype created as an ICT internship project.
 
-> **Important:** This is an independent student prototype, not an official Murang'a County Government website. It is not connected to any county systems. Do not enter real personal, confidential, or sensitive information.
+> **Important:** This is an independent demo prototype, not an official Murang'a County Government website. It is not connected to any county systems. Do not enter real personal, confidential, or sensitive information.
 
 ## Features
 
@@ -46,6 +46,4 @@ This version is a front-end prototype. Requests are saved only in the browser pr
 
 For a production-style version, add a backend API and database, secure staff authentication, authorization, server-side validation, audit logging, privacy controls, backups, and deployment configuration. Use synthetic data until an authorized organization approves real-data handling.
 
-## Suggested project description for GitHub
 
-"A responsive public service request portal prototype that lets residents submit and track county service concerns and gives staff a demo dashboard for reviewing requests and updating statuses. Built with HTML, CSS, and JavaScript."
